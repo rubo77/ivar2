@@ -1,3 +1,16 @@
+===========================
+@ivarbot:hveem.no
+===========================
+
+This instance of ivar2 is posting the html-title of a webpage that is linked in a room the bot is invited
+
+~ please add some more information here on the bot you created. I would like to know a bit more, before I use it in one of my private rooms on my Matrix server.
+
+Also you could please activate issues here in this github repository, so we could start them without having to create a PR.
+
+
+# original Readme:
+
 ============================
 ivar2 - DO-OH!
 ============================
